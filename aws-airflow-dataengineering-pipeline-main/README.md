@@ -25,9 +25,7 @@ This step involves employing the GlueContext and Spark context for Extract, Tran
 ## Conclusion
 By adhering to these outlined steps, a comprehensive ETL pipeline is established within AWS. This pipeline facilitates the extraction of weather data from OpenWeather, its storage within S3, and its subsequent loading into Redshift. The integration of Apache Airflow and Glue operators guarantees the automation of routine updates to the weather data in the Redshift database.
 
-# Save the content to a markdown file
-file_path = '/mnt/data/AWS_Data_Engineering_Project.md'
-with open(file_path, 'w') as file:
-    file.write(markdown_content)
-
-file_path
+# Author of the project
+Vipul H Harihar
+hariharvipul@gmail.com
+[Vipul's LinkedIn Profile](https://www.linkedin.com/in/vipulhharihar/)
